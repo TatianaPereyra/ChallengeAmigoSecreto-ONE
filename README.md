@@ -4,15 +4,15 @@
 
 ## Índice
 
-[Descripción del Proyecto](descripcion-del-proyecto)
+[Descripción del Proyecto](#descripcion-del-proyecto)
 
-[Ingreso de nombres](ingreso-de-nombres)
+[Ingreso de nombres](#ingreso-de-nombres)
 
-[Cómo realizar el sorteo](como-realizar-el-sorteo)
+[Cómo realizar el sorteo](#como-realizar-el-sorteo)
 
-[Tecnologías utilizadas](tecnologias-utilizadas)
+[Tecnologías utilizadas](#tecnologias-utilizadas)
 
-[Información de contacto](informacion-de-contacto)
+[Información de contacto](#informacion-de-contacto)
 
 ## Descripción del Proyecto
 
@@ -49,4 +49,5 @@ Este proyecto se trató específicamente del desarrollo de la lógica detrás de
 
 ## Información de Contacto
 Proyecto realizado por Tatiana Pereyra, última modificación: Agosto 2025.
-Mail de contacto: pereyratatiana175gmail.com
+
+Mail de contacto: pereyratatiana@175gmail.com
