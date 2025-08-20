@@ -14,7 +14,7 @@
 
 [Información de contacto](#informacion-de-contacto)
 
-## Descripción del Proyecto
+## Descripcion del Proyecto
 
 El siguiente proyecto es una propuesta de resolucion al Challenge proporcionado por Alura Latam al curso de Principiante en Pogramacion, que forma parte de la formacion del curso ONE, grupo 9. Como problematica a resolver, se necesitaba una aplicacion en la que un usuario pudiera ingresar un numero, indeterminado, de nombres para posteriormente poder realizar un sorteo entre ellos. La siguiente es la imagen correspondiente que se deberia mostrar a la hora de acceder el proyecto:
 
@@ -35,7 +35,7 @@ En caso de que el usuario intente tocar el botón de añadir sin haber ingresado
 ![El usuario intenta ahora tocar el boton añadir sin haber escrito nada. Sale una alerta pidiendo el ingreso de un nombre válido](https://github.com/TatianaPereyra/ChallengeAmigoSecreto-ONE/raw/main/assets/Mensaje%20Error.gif)
 
 
-## Cómo realizar el Sorteo
+## Como realizar el Sorteo
 Una vez que el usuario ya agregó todos los nombres que deseaba, para realizar el sorteo simplemente debe tocar el botón "Sortear Amigo" que aparece debajo de la lista. El resultado ganador aparecerá en verde, mostrando el texto "El amigo sorteado es: " y el nombre del ganador: 
 
 ![Se muestra otro gift. El usuario toca un boton naranja de sorteo que se encuentra debajo de la lista de nombres ingresados y sale un nombre ganador, en color verde](https://github.com/TatianaPereyra/ChallengeAmigoSecreto-ONE/raw/main/assets/Sorteo.gif)
@@ -44,10 +44,10 @@ Para vaciar la lista de amigos (los nombres ingresados) y borrar al ganador es n
 
 ![Imagen donde muestra a más de un ganador. Los nombres estan en una lista, de color verde, debajo de la lista de todos los nombres ingresados por el usuario y arriba del botón de sorteo](https://github.com/TatianaPereyra/ChallengeAmigoSecreto-ONE/raw/main/assets/VariosSorteos.png)
 
-## Tecnologías Utilizadas
+## Tecnologias Utilizadas
 Este proyecto se trató específicamente del desarrollo de la lógica detrás de la aplicación. Para esto se utilizó JavaScript puro.
 
-## Información de Contacto
+## Informacion de Contacto
 Proyecto realizado por Tatiana Pereyra, última modificación: Agosto 2025.
 
 Mail de contacto: pereyratatiana@175gmail.com
